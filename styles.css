@@ -1,0 +1,16 @@
+body{
+    background-color: #fec7d7;
+}
+ul{
+    text-align: right;
+    line-height: 10px;
+   
+    letter-spacing: 4px;
+    font-style:oblique;
+   
+}
+.imgRedonda {
+    width: 300px;
+    height:300px;
+    border-radius:150px
+}
